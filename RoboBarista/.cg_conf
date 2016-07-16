@@ -1,0 +1,1 @@
+{"id":"java","ext":"java","version":"JDK 1.7.0","compile":"javac RoboBarista.java","execute":"java -Xmx128M -Xms16M RoboBarista","preview":"","command":"","file":"/home/cg/src/samples/HelloWorld.java","url":"compile_java_online.php","mode":"java"}
